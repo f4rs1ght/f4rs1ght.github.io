@@ -4,7 +4,8 @@ body {
 }
 
 .container {
-    padding-top: 100px;
+    padding: 100px;
+    text-align: center;
 }
 
 .display-4 {
